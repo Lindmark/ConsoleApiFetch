@@ -50,8 +50,8 @@ class Program
         }
 
         // Rename to branchId
-        //string branchId = "feature/1243195";
-        string branchId = "SSIS_Update";
+        string branchId = "feature/1243195";
+        //string branchId = "SSIS_Update";
         if (branchId == null || branchId == "")
         {
             Console.Write("Enter branchID: ");
