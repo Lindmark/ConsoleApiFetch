@@ -1,0 +1,15 @@
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\obj\Debug\net48\ConsoleApiFetch.csproj.AssemblyReference.cache
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\obj\Debug\net48\ConsoleApiFetch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\obj\Debug\net48\ConsoleApiFetch.AssemblyInfoInputs.cache
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\obj\Debug\net48\ConsoleApiFetch.AssemblyInfo.cs
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\obj\Debug\net48\ConsoleApiFetch.csproj.CoreCompileInputs.cache
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\bin\Debug\net48\App.config
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\bin\Debug\net48\ConsoleApiFetch.exe.config
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\bin\Debug\net48\ConsoleApiFetch.exe
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\bin\Debug\net48\ConsoleApiFetch.pdb
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\obj\Debug\net48\ConsoleA.B12278D4.Up2Date
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\obj\Debug\net48\ConsoleApiFetch.exe
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\obj\Debug\net48\ConsoleApiFetch.pdb
+C:\Users\emil\source\repos\ConsoleApiFetch\ConsoleApiFetch\obj\Debug\net48\ConsoleApiFetch.exe.config

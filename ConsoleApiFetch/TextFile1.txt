@@ -1,0 +1,3 @@
+﻿Lägg till Management/Integration Service catalogs och Management/SQL Server Agents
+
+Lär mig hur jag lägger in SSIS och skriver samt kör SP
